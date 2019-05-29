@@ -2,9 +2,11 @@
 
 # Hello Captain America fans!
 
-Captain America is a fictional superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby in 1940-s, the character wears a costume bearing an American flag motif, and he utilizes a nearly indestructible shield which he throws as a projectile. Captain America is the alter ego of Steve Rogers, a frail young man enhanced to the peak of human perfection by an experimental serum to aid the United States government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in suspended animation until he was revived in the present day. Although Captain America often struggles to maintain his ideals as a man out of his time with its modern realities, he remains a highly respected figure in his community which includes becoming the long-time leader of the Avengers.
+Captain America is a fictional superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby in 1940-s, the character wears a costume bearing an American flag motif, and he utilizes a nearly indestructible shield which he throws as a projectile. 
 
-- Download theme: [VScode Captain America Theme]().
+Captain America is the alter ego of Steve Rogers, a frail young man enhanced to the peak of human perfection by an experimental serum to aid the United States government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in suspended animation until he was revived in the present day. Although Captain America often struggles to maintain his ideals as a man out of his time with its modern realities, he remains a highly respected figure in his community which includes becoming the long-time leader of the Avengers.
+
+- Download theme: [VScode Captain America Theme](https://marketplace.visualstudio.com/items?itemName=lintangwisesa.captain-america).
 - Source code: [VScode Captain America Theme Source Code](https://github.com/LintangWisesa/VScode-Captain-America-Theme).
 
 ## Preview 🔍
