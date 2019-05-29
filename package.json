@@ -1,0 +1,27 @@
+{
+    "name": "captain-america",
+    "displayName": "Captain America",
+    "description": "VScode theme inspired by Captain America outfit",
+    "version": "0.0.1",
+    "publisher": "lintangwisesa",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LintangWisesa/VScode-Captain-America-Theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Captain America",
+                "uiTheme": "vs",
+                "path": "./themes/Captain America-color-theme.json"
+            }
+        ]
+    }
+}
