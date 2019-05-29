@@ -1,10 +1,11 @@
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
-# Hello Nakama!
+# Hello Captain America fans!
 
-[Tokopedia](https://www.tokopedia.com/) is an online marketplace that allows individuals and business owners in Indonesia to open and maintain their stores for free. It was founded in 2009 by William Tanuwijaya & Leontinus Alpha Edison. As of November 2018, the company is valued at about $7 billion. Tokopedia describes its mission as democratizing commerce through technology.
-- Download theme: [VScode Tokopedia Theme](https://marketplace.visualstudio.com/items?itemName=lintangwisesa.tokopedia).
-- Source code: [VScode Tokopedia Theme Source Code](https://github.com/LintangWisesa/VScode-Tokopedia-Theme).
+Captain America is a fictional superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby in 1940-s, the character wears a costume bearing an American flag motif, and he utilizes a nearly indestructible shield which he throws as a projectile. Captain America is the alter ego of Steve Rogers, a frail young man enhanced to the peak of human perfection by an experimental serum to aid the United States government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in suspended animation until he was revived in the present day. Although Captain America often struggles to maintain his ideals as a man out of his time with its modern realities, he remains a highly respected figure in his community which includes becoming the long-time leader of the Avengers.
+
+- Download theme: [VScode Captain America Theme]().
+- Source code: [VScode Captain America Theme Source Code](https://github.com/LintangWisesa/VScode-Captain-America-Theme).
 
 ## Preview 🔍
 
